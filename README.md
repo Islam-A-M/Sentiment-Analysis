@@ -1,6 +1,7 @@
 # sentimentanalysis
 
-A new Flutter project.
+ natural language processing to analyze and understand human sentences. 
+ Flutter
 
 ## Getting Started
 
